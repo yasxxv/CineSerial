@@ -1,4 +1,4 @@
-> 📲 Lista de Filmes Mais avaliados
+> 🗒️ Lista de Filmes Mais avaliados
 
 ## ✏️ Sobre o projeto
 
