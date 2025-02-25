@@ -1,16 +1,24 @@
+<img src="img/screenshot.png" alt="Screenshot do Projeto em funcionamento">
 > 🗒️ Lista de Filmes Mais avaliados
 
 ## ✏️ Sobre o projeto
 
-O projeto foi desenvolvido para aula de Programação WEB, realizada pelas alunas Yasmin, Bianaca e Isabela, onde concluímos um Site web com avaliacões de 
-séries formado por um Ranking de melhores séries por gêneros, quanto mais avaliado a série for, mais estrelinhas ela terá. Mesclamos o PHP com o HTML sempres 
-que possível durante a aplicação, no formulario usamos a função exibirPopup para chamar o pop-up sempre que o usuário envia uma nova séria com a avaliação para os 
-nossos administradores também utilizamos á variavel global "Session" para guardar o nome do usuario que é preenchido na pagina Index.PHP para iniciar a vizualição 
-das séries avaliadas, Toda vez que a Session é chamada validamos se a variavel já existe, caso não utilizamos a palavra "Convidado".
+O projeto foi desenvolvido para a disciplina de Programação Web pelas alunas Yasmin, Bianca e Isabela. Criamos um site de avaliações de séries, com um ranking por gênero, onde as séries ganham estrelinhas conforme as avaliações. Utilizamos PHP e HTML para integrar funcionalidades, como a exibição de um pop-up no envio de avaliações e o uso da variável global "Session" para armazenar o nome do usuário, personalizando a navegação. Caso o usuário não esteja logado, a palavra "Convidado" é atribuída automaticamente.
+
+## 👀 Obs:
+
+O projeto integrou PHP e HTML para uma experiência eficiente, destacando a função exibirPopup para facilitar o envio de avaliações. A "Session" garantiu uma navegação personalizada, com validação constante da variável para assegurar a experiência do usuário, mesmo para os não autenticados.
 
 ## 💻 Tecnologias utilizadas
 
 - PHP
+- HTML
+- CSS
+- REPLIT
+
+### 📅 Data do Projeto:
+
+20 Nov 2023
 
 ---------------------------
 
