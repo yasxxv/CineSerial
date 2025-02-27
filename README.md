@@ -1,4 +1,5 @@
-<img src="img/screenshot.png" alt="Screenshot do Projeto em funcionamento">
+<img src="front-end/src/assets/logo/screenshot.png" alt="Screenshot do Projeto em funcionamento">
+
 > 🗒️ Lista de Filmes Mais avaliados
 
 ## ✏️ Sobre o projeto
@@ -8,6 +9,8 @@ O projeto foi desenvolvido para a disciplina de Programação Web pelas alunas Y
 ## 👀 Obs:
 
 O projeto integrou PHP e HTML para uma experiência eficiente, destacando a função exibirPopup para facilitar o envio de avaliações. A "Session" garantiu uma navegação personalizada, com validação constante da variável para assegurar a experiência do usuário, mesmo para os não autenticados.
+
+### 🔗 <a href="https://replit.com/@yasxxv/CineSerial?v=1">Link do site</a>
 
 ## 💻 Tecnologias utilizadas
 
