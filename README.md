@@ -1,4 +1,4 @@
-<img src="front-end/src/assets/logo/screenshot.png" alt="Screenshot do Projeto em funcionamento">
+<img src="img/screenshot.png" alt="Screenshot do Projeto em funcionamento">
 
 > 🗒️ Lista de Filmes Mais avaliados
 
